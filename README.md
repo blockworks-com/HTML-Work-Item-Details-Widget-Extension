@@ -1,2 +1,2 @@
-# HTML-Work-Item-Details-Widget-Extension-
+# HTML-Work-Item-Details-Widget-Extension
 Version of Work-Item-Details-Widget-Extension that supports HTML
